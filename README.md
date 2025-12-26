@@ -1,2 +1,2 @@
 # NotBeAProject
-Lorem
+The first project published on GitHub
